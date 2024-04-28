@@ -27,9 +27,8 @@ url: "https://yan-elena.github.io/" # the base hostname & protocol for your site
 github_username:  yan-elena
 
 # Build settings
-theme: jekyll-theme-clean-blog
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-clean-blog
+plugins: [jekyll-paginate]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
