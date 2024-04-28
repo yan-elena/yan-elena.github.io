@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+👩🏻‍💻 Hello! I am a PhD student in Computer Science at École des Mines de Saint-Étienne, France.
