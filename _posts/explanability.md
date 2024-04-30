@@ -2,6 +2,7 @@
 layout: post
 title: "A Multi-Level Explainability Framework for BDI Multi-Agent Systems"
 header-img: "img/post-bg-rwd.jpg"
+catalog: true
 tags: 
 - Multi-Agent Systems
 - BDI Agent Model
