@@ -2,6 +2,12 @@
 layout: research
 title: "A Multi-Level Explainability Framework for BDI Multi-Agent Systems"
 header-img: "img/post-bg-rwd.jpg"
+tags: 
+- Multi-Agent Systems
+- BDI Agent Model
+- JaCaMo
+- Jason
+- Explainability
 ---
 
 **Keywords:** Multi-Agent Systems, BDI Agent Model, JaCaMo, Jason, Explainability
