@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "A Multi-Level Explainability Framework for BDI Multi-Agent Systems"
-subtite: ""
-date: 2024
-author: "EY"
+date:   2024-05-01 12:00:00
+author: "EYlena Yan"
 header-img: "img/post-bg-rwd.jpg"
 tags: 
-- Multi-Agent Systems
-- BDI Agent Model
-- JaCaMo
-- Jason
-- Explainability
+    - Multi-Agent Systems
+    - BDI Agent Model
+    - JaCaMo
+    - Jason
+    - Explainability
 ---
 
 **Keywords:** Multi-Agent Systems, BDI Agent Model, JaCaMo, Jason, Explainability
