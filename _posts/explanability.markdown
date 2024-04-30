@@ -2,7 +2,7 @@
 layout: post
 title: "A Multi-Level Explainability Framework for BDI Multi-Agent Systems"
 date:   2024-05-01 12:00:00
-author: "EYlena Yan"
+author: "Elena Yan"
 header-img: "img/post-bg-rwd.jpg"
 tags: 
     - Multi-Agent Systems
