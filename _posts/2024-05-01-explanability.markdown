@@ -11,6 +11,7 @@ tags:
     - JaCaMo
     - Jason
     - Explainability
+parent: "Researcb"
 ---
 
 **Keywords:** Multi-Agent Systems, BDI Agent Model, JaCaMo, Jason, Explainability
