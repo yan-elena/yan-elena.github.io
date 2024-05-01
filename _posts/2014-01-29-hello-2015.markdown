@@ -1,13 +1,11 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+title:      "如何看待微信屏蔽快的打车事件？"
+subtitle:   "恰有小感。"
+date:       2014-12-13
 author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-kuaidi.jpg"
 tags:
-    - Meta
+    - 知乎
+    - 产品
 ---
-
-> “Yeah It's on. ”
-
