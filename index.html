@@ -7,17 +7,17 @@ header-img: "img/home-bg-o.jpg"
 <p>👋 Hello, I'm <strong>Elena Yan</strong>, a Ph.D. student in the <a href="https://www.mines-stetienne.fr/recherche/centres-et-departements/departement-informatique-et-systemes-intelligents/">Departement of Computer Science and Intelligent Systems</a> of the Institut Henri FAYOL at <a href="https://www.mines-stetienne.fr/en/">École des Mines de Saint-Étienne</a> in France.
 </p>
 
-<h1>Researches</h1>
+<h2>Latest Updates</h2>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
+        <h3 class="post-title">
             {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
         </h3>
+        {% if post.subtitle %}
+        <h4 class="post-subtitle">
+            {{ post.subtitle }}
+        </h4>
         {% endif %}
         <div class="post-content-preview">
             {{ post.content | strip_html | truncate:200 }}
