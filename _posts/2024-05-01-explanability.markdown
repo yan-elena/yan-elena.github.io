@@ -23,11 +23,11 @@ In this project, we build on top of the idea of using logs to examine the behavi
 framework for engineering and understanding bdi agent systems,” in *Proceedings of the 24th
 Workshop “From Objects to Agents” (WOA 2023)*, R. Falcone, C. Castelfranchi,
 A. Sapienza, and F. Cantucci, Eds., ser. CEUR Workshop Proceedings, vol. 3579, Rome:
-CEUR-WS.org, 2023. url: https://ceur-ws.org/Vol-3579/paper17.pdf.
+CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3579/paper17.pdf](https://ceur-ws.org/Vol-3579/paper17.pdf).
 
-- Yan, Elena (2023) A multi level explainability framework for BDI Multi Agent Systems. [Laurea magistrale], Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena. url: https://amslaurea.unibo.it/29644/
+- Yan, Elena (2023) A multi level explainability framework for BDI Multi Agent Systems. [Laurea magistrale], Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena. [https://amslaurea.unibo.it/29644/](https://amslaurea.unibo.it/29644/)
 
 ## Source code 
-- https://github.com/yan-elena/agent-logging
-- https://github.com/yan-elena/agent-explanation
-- https://github.com/yan-elena/domestic-robot-example
+- [https://github.com/yan-elena/agent-logging](https://github.com/yan-elena/agent-logging)
+- [https://github.com/yan-elena/agent-explanation](https://github.com/yan-elena/agent-explanation)
+- [https://github.com/yan-elena/domestic-robot-example](https://github.com/yan-elena/domestic-robot-example)
