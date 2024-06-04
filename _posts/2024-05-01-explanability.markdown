@@ -11,10 +11,8 @@ tags:
     - JaCaMo
     - Jason
     - Explainability
-parent: "Researcb"
+parent: "Research"
 ---
-
-**Keywords:** Multi-Agent Systems, BDI Agent Model, JaCaMo, Jason, Explainability
 
 In this project, we build on top of the idea of using logs to examine the behaviour of a software system by applying it to multi-agent systems with a novel angle which is to include multiple levels of explanation generated from the same set of logs. Commonly, explainability in agent systems is achieved by focusing on a single agent that produces a single explanation for a single purpose. Our research introduces a different approach by presenting an explainability framework for agents and multi-agent systems that deals with multiple levels of abstraction that can be used for different purposes by different classes of users.
 
