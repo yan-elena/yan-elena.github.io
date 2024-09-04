@@ -8,7 +8,7 @@ header-img: "img/home-bg-o.jpg"
 </p>
 
 <h2>News</h2>
-{% for post in paginator.news %}
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <p class="post-meta">{{post.date}}</p>
