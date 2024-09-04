@@ -12,7 +12,8 @@ header-img: "img/home-bg-o.jpg"
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-subtitle">
-            {{post.date | date: "%B %-d, %Y" }} - {{ post.title }}
+            {{post.date | date: "%B %-d, %Y" }} <br/>
+            {{ post.title }}
         </div>
         {% if post.description %}
         <div class="post-content-preview">
