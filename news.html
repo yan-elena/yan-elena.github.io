@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project"
+title: "News"
 description: "The only way to do great work is to love what you do."
 header-img: "img/post-bg-rwd.jpg"
 has_children: true
@@ -22,7 +22,7 @@ has_children: true
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %Y" }}
+        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
 <hr>
