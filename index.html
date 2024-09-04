@@ -11,8 +11,8 @@ header-img: "img/home-bg-o.jpg"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <p class="post-meta">{{post.date | date: "%B %-d, %Y" }}</p>
-        <div class="post-subtitle mb-0">
+        <p class="post-meta mb-0">{{post.date | date: "%B %-d, %Y" }}</p>
+        <div class="post-subtitle">
             {{ post.title }}
         </div>
         {% if post.description %}
