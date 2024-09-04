@@ -9,21 +9,23 @@ has_children: true
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h3 class="post-title">
+        <p class="post-meta">{{post.date | date: "%B %-d, %Y" }}</p>
+        <div class="post-subtitle mb-0">
             {{ post.title }}
-        </h3>
-        {% if post.subtitle %}
-        <h4 class="post-subtitle">
-            {{ post.subtitle }}
-        </h4>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
         </div>
+        {% if post.description %}
+        <div class="post-content-preview">
+            {{ post.description }}
+        </div>
+        {% else %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:300 }}
+        </div>
+        {% endif %}
     </a>
-    <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+    <!-- <p class="post-meta">
+        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %Y" }}
+    </p> -->
 </div>
 <hr>
 {% endfor %}
