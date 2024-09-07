@@ -6,7 +6,7 @@ header-img: "img/post-bg-rwd.jpg"
 has_children: true
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <p class="post-meta">{{post.date | date: "%B %-d, %Y" }}</p>
