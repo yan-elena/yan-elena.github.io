@@ -9,6 +9,7 @@
     padding-right: 5%;
   }
 }
+
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
@@ -495,6 +496,11 @@ pre code {
     transform: translate3d(0, 100%, 0);
   }
 }
+
+.card-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
