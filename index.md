@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "Perfection is not attainable, but if we chase perfection we can catch excellence"
-header-img: "img/home-bg-c.png"
+header-img: "img/bg-library.jpeg"
 ---
 
 👋 Hello, I am **Elena Yan**, a Ph.D. student in Computer Science at the [Departement of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/centres-et-departements/departement-informatique-et-systemes-intelligents/) of the Institut Henri FAYOL at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/) in France.
