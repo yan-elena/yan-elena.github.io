@@ -6,7 +6,7 @@ has_children: true
 ---
 
 {% for post in site.posts %}
-<div class="post-preview">
+<p class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-meta">{{post.date | date: "%B %-d, %Y" }} - {{ post.title }}</div>
         {% if post.description %}
@@ -22,7 +22,7 @@ has_children: true
     <!-- <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %Y" }}
     </p> -->
-</div>
+</p>
 <hr>
 {% endfor %}
 
