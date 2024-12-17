@@ -42,7 +42,7 @@ You can find my CV here: [Elena Yan's CV](../../../../assets/yan_elena_cv_full.p
 
 ## Contact
 
-Elena Yan<br/>
+**Elena Yan**<br/>
 [Departement of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/departements/departement-informatique-et-systemes-intelligents/)<br/>
 [Henri Fayol Institute](https://fayol.wp.imt.fr/)<br/>
 [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr)<br/>
