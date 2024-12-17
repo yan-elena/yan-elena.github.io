@@ -8,7 +8,7 @@ has_children: true
 {% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <p class="post-meta">{{post.date | date: "%B %-d, %Y" }}. {{ post.title }}</p>
+        <div class="post-meta">{{post.date | date: "%B %-d, %Y" }} - {{ post.title }}</div>
         {% if post.description %}
         <div class="post-content-preview">
             {{ post.description }}
