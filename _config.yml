@@ -3,15 +3,15 @@ title: Elena Yan
 SEOTitle: Elena Yan
 header-img: img/post-bg-desk.jpg
 email: elena.yan@emse.fr
-description: "Every failure is leading towards success."
-keyword: "Elena Yan, EY, Computer Science"
+description: "Elena Yan's Personal Website."
+keyword: "Elena Yan, EY, Computer Science, Multi-Agent Systems, Normative Multi Agent System, Self-Adaptation, MINES Saint Etienne, Unibo"
 url: "http://yan-elena.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yan-elena/yan-elena.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Every failure is leading towards success."
 sidebar-avatar: /img/about-ey-rect.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
