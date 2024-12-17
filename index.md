@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Perfection is not attainable, but if we chase perfection we can catch excellence"
+description: "Perfection is not attainable, but if we chase perfection we can catch excellence."
 header-img: "img/bg-library.jpeg"
 ---
 
