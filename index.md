@@ -14,7 +14,7 @@ My research interests concerns mainly on Multi-Agent Systems (MAS). Some keyword
 - BDI Agents
 - JaCaMo
 
-You can find my CV here: [Elena Yan's CV](../../../../assets/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
+You can find my CV here: [**Elena Yan's CV**](../../../../assets/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
 
 ## Publications
