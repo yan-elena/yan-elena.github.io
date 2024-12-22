@@ -5,7 +5,11 @@ header-img: "img/bg-library.jpeg"
 order: 1
 ---
 
-👋 Hello, I am **Elena Yan**, a Ph.D. student in Computer Science at the [Departement of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/centres-et-departements/departement-informatique-et-systemes-intelligents/) of the Institut Henri FAYOL at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/) in France.
+👋 Hello, I am **Elena Yan**, a Ph.D. student in Computer Science at the [Department of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/centres-et-departements/departement-informatique-et-systemes-intelligents/) of the Institut Henri FAYOL at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/) in France.
+My supervisors are [Olivier Boissier](https://www.emse.fr/~boissier/), [Jaime S. Sichman](https://www2.pcs.usp.br/~jaime/index_engl.html), and [Luis G. Nardin](https://gustavo.nardin.info).
+
+Previously, I earned my M.Sc and B.Sc. in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at the [University of Bologna](https://www.unibo.it/en/homepage) in Italy, advised by [Alessandro Ricci](https://www.unibo.it/sitoweb/a.ricci/en).
+
 
 My research interests concerns mainly on Multi-Agent Systems (MAS). Some keywords are:
 
@@ -14,6 +18,8 @@ My research interests concerns mainly on Multi-Agent Systems (MAS). Some keyword
 - Software Engineering
 - BDI Agents
 - JaCaMo
+
+My current research focuses on the development of a model and mechanisms for multi agent systems able to self-regulate and self-adapt for a trustworthy and sustainable industry of future. 
 
 You can find my CV here: [**Elena Yan's CV**](../../../../assets/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
@@ -50,6 +56,3 @@ You can find my CV here: [**Elena Yan's CV**](../../../../assets/yan_elena_cv_fu
 158 cours Fauriel - CS 62362<br/>
 42023 Saint-Étienne Cedex 2 - France<br/>
 Email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
-
-
-<sub><sup>👩🏻‍💻 This is my personal website, created with Github Pages and Jekyll. Access my GitHub here 👉 [EY · GitHub](http://github.com/yan-elena).</sup></sub>
