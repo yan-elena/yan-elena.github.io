@@ -5,10 +5,6 @@ description: "The only way to do great work is to love what you do."
 order: 3
 ---
 
-
-
-## Teaching
-
 ### 2024 - 2025
 
 **[Integrating and Engineering Intelligent Systems](https://www.emse.fr/~boissier/enseignement/defiia/up9-24/)** <br/>
