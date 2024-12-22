@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 description: "The only way to do great work is to love what you do."
+order: 2
 ---
 
 

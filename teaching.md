@@ -2,6 +2,7 @@
 layout: page
 title: "Teaching"
 description: "The only way to do great work is to love what you do."
+order: 3
 ---
 
 
@@ -22,4 +23,4 @@ Laboratory, second year in Master Cyber-Physical and Social Systems CPS2, MINES 
 Laboratory, first year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne, Saint-Étienne.
 
 **Industrial Risk and Accident Project - Modern Languages**<br/>
-Scientific research tutor, 8 hours, graduate course in Science and Engineering — first year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne, Saint-Étienne.
+Scientific research tutor, first year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne, Saint-Étienne.
