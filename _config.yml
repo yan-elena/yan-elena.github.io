@@ -58,3 +58,17 @@ service-worker: true
 
 scholar:
   style: modern-language-association
+  last_name: [Yan]
+  first_name: [Elena]
+  style: apa
+  locale: en
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  bibtex_filters: [latex, smallcaps, superscript]
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  query: "@*"
