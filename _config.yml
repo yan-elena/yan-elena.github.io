@@ -27,8 +27,8 @@ orcid:              0009-0000-6660-9378
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: nil
-paginate_path: nil
+pagination:
+  enabled: true
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "vendor"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
