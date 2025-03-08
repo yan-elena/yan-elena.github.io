@@ -54,7 +54,7 @@ layout: default
                 {% if site.friends %}
                 <hr>
                 <h5>FRIENDS</h5>
-                <ul class="list-inline">
+                <ul class="list-inline justify-content-center d-flex">
                     {% for friend in site.friends %}
                         <li><a href="{{friend.href}}">{{friend.title}}</a></li>
                     {% endfor %}
@@ -112,7 +112,7 @@ layout: default
                             <p>{{site.sidebar-about-description}}</p>
                         {% endif %}
                         <!-- SNS Link -->
-                        <ul class="list-inline">
+                        <ul class="list-inline justify-content-center d-flex">
                             {% if site.RSS %}
                             <li>
                                 <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
@@ -225,7 +225,7 @@ layout: default
                 {% if site.friends %}
                 <hr>
                 <h5>FRIENDS</h5>
-                <ul class="list-inline">
+                <ul class="list-inline justify-content-center d-flex">
                     {% for friend in site.friends %}
                         <li><a href="{{friend.href}}">{{friend.title}}</a></li>
                     {% endfor %}
