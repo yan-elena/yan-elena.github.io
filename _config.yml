@@ -21,6 +21,7 @@ RSS: false
 github_username:    yan-elena
 linkedin_username:  elena-yan-711603271
 google_scholar:     https://scholar.google.com/citations?user=4ROQqgsAAAAJ&hl=en
+scholar_useid:      4ROQqgsAAAAJ
 orcid:              0009-0000-6660-9378
 
 
@@ -81,7 +82,7 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
