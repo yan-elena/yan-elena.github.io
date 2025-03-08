@@ -26,26 +26,17 @@ You can find my CV here: [**Elena Yan's CV**](../../../../assets/yan_elena_cv_fu
 
 ## Publications
 
-- **Elena Yan**, Luis G. Nardin, Jomi F. Hübner, and Olivier Boissier. (2024). An Agent-Centric Perspective on Norm Enforcement and Sanctions.*International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (AAMAS@COINE2024)*, New Zealand, May 7, 2024. [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128). 
-- **Elena Yan**, Samuele Burattini, Jomi F. Hübner, and Alessandro Ricci, “Towards a Multi-Level Explainability Framework for Engineering and Understanding BDI Agent Systems,” in *Proceedings of the 24th Workshop “From Objects to Agents” (WOA 2023)*, R. Falcone, C. Castelfranchi, A. Sapienza, and F. Cantucci, Eds., ser. CEUR Workshop Proceedings, vol. 3579, Rome: CEUR-WS.org, 2023. [https://ceur-ws.org/Vol-3579/paper17.pdf](https://ceur-ws.org/Vol-3579/paper17.pdf).
-  
-## Work in Progress
-
-- "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" _(submitted)_ - Elena Yan, Samuele Burattini, Jomi F. Hübner, and Alessandro Ricci.
-- "Normative artificial intelligence for regulating manufacturing: Opportunities and challenges" _(draft)_. 
-- "Management of Regulations in Multi-Agent Systems" _(draft)_.
-- "Social, Individual, and Physical Realities in the Management of Regulations" _(draft)_.
-
+{% bibliography -f papers %}
 
 ## News
-
+- _March 4, 2025_: Our COINE@AAMAS conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check-out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6) 
+- _January 20, 2525_: Our journal paper "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" is published on JAAMAS! Check-out at: [https://doi.org/10.1007/s10458-025-09689-6](https://doi.org/10.1007/s10458-025-09689-6) 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[slides]](../../../../assets/sereco24.pdf)
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
 - _July 9, 2024_: Presentation at ["Workshop from Objects to Agents"](https://www.univda.it/woa2024/) 2024, Forte di Bard, Italy. [[slides]](../../../../assets/woa24.pdf)
 - _May 7, 2024_: Presentation of the paper ["An Agent Centric Perspective on Norm Enforcement and Sanctions"](https://arxiv.org/abs/2403.15128) at the COINE@AAMAS 2024 Workshop, Online Presentation. [[slides]](../../../../assets/coine24.pdf)
-- _March 23, 2024_: Our preprint of the paper "An Agent Centric Perspective on Norm Enforcement and Sanctions" has been published! Check-out at: https://arxiv.org/abs/2403.15128.
-- _April 24, 2024_: Talk "Self-adaptive Regulation Mechanisms for a Trustworthy and Sustain- able Industry of the Future" at IMT 2024 Colloquium “Responsible Industry of Future”, Gardanne, France. [[slides]](../../../../assets/phd-imt-colloque.pdf)
-
+- _March 23, 2024_: Our preprint of the paper "An Agent Centric Perspective on Norm Enforcement and Sanctions" is published! Check-out at: [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128).
+- _April 24, 2024_: Talk "Self-adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" at IMT 2024 Colloquium “Responsible Industry of Future”, Gardanne, France. [[slides]](../../../../assets/phd-imt-colloque.pdf)
 
 ## Contact
 
