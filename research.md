@@ -5,9 +5,6 @@ description: "The only way to do great work is to love what you do."
 order: 2
 ---
 
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
