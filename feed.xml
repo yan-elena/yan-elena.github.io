@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Yan</title>
+    <description>Elena Yan&apos;s Personal Website.</description>
+    <link>http://yan-elena.github.io/</link>
+    <atom:link href="http://yan-elena.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 08 Mar 2025 18:50:01 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Mar 2025 18:50:01 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Participation at EASSS - EUMAS - DKG workshop</title>
+        <description>&lt;p&gt;I attended the following events in Dublin, Ireland from August 19th to 29th, 2024&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The 24th European Agent Systems Summer School, August 19-23, 2024, Dublin, Ireland. https://euramas.github.io/easss2024/&lt;/li&gt;
+  &lt;li&gt;The 21st European Conference on Multi-Agent Systems. August 26-28, 2024, Dublin, Ireland. https://euramas.github.io/eumas2024&lt;/li&gt;
+  &lt;li&gt;Joint Distributed Knowledge Graphs (COST CA 19134) https://cost-dkg.eu/ &amp;amp; W3C Web Agents Community Group https://www.w3.org/community/webagents/ Workshop&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+        <link>http://yan-elena.github.io/2024/08/30/euramas24/</link>
+        <guid isPermaLink="true">http://yan-elena.github.io/2024/08/30/euramas24/</guid>
+        
+        <category>news</category>
+        
+        <category>summer school</category>
+        
+        <category>workshop</category>
+        
+        <category>multi agent systems</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Presentation at WOA 2024, Forte di Bard, Italy</title>
+        <description>&lt;p&gt;I presented our paper “An Agent Centric Perspective on Norm Enforcement and Sanctions” for the dissemination track at the &lt;a href=&quot;https://www.univda.it/woa2024/&quot;&gt;25th Workshop From Objects to Agents&lt;/a&gt; 8th-10th July 2024, Forte di Bard, Italy.&lt;/p&gt;
+
+&lt;p&gt;Title: &lt;strong&gt;“An Agent Centric Perspective on Norm Enforcement and Sanctions”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstract:&lt;/p&gt;
+
+&lt;p&gt;In increasingly autonomous and highly distributed multi-agent systems, centralized coordination becomes impractical and raises the need for governance and enforcement mechanisms from an agent-
+centric perspective. In our conceptual view, sanctioning norm enforcement is part of this agent-centric approach and they aim at promoting norm compliance while preserving agents’ autonomy. The few works dealing with sanctioning norm enforcement and sanctions from the agent-centric perspective present limitations regarding the representation of sanctions and the comprehensiveness of their norm enforcement process. To address these drawbacks, we propose the NPL(s), an extension of the NPL normative programming language enriched with the representation of norms and sanctions as first-class abstractions. We also propose a BDI normative agent architecture embedding an engine for processing the NPL(s) language and a set of capabilities for approaching more comprehensively the sanctioning norm enforcement process. We apply our contributions in a case study for improving the robustness of agents’ decision-making in a production automation system.&lt;/p&gt;
+
+&lt;p&gt;👉 &lt;a href=&quot;../../../../presentation/woa24.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;👉 &lt;a href=&quot;https://ceur-ws.org/Vol-3735/&quot;&gt;Workshop Proceedings&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+        <link>http://yan-elena.github.io/2024/07/09/woa24/</link>
+        <guid isPermaLink="true">http://yan-elena.github.io/2024/07/09/woa24/</guid>
+        
+        <category>news</category>
+        
+        <category>workshop</category>
+        
+        <category>normative multi agent systems</category>
+        
+        <category>sanctions</category>
+        
+        <category>normative programming language</category>
+        
+        <category>normative agent architecture</category>
+        
+        <category>norm enforcement</category>
+        
+        <category>multi agent systems</category>
+        
+        <category>JaCaMo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Presentation at COINE@AAMAS2024</title>
+        <description>&lt;p&gt;I presented our paper titled: “An Agent Centric Perspective on Norm Enforcement and Sanctions” at the &lt;a href=&quot;https://coin-workshop.github.io/coine-2024-auckland/&quot;&gt;International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems&lt;/a&gt; (COINE@AAMAS2024).&lt;/p&gt;
+
+&lt;p&gt;Title: &lt;strong&gt;“An Agent Centric Perspective on Norm Enforcement and Sanctions”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstract:&lt;/p&gt;
+
+&lt;p&gt;In increasingly autonomous and highly distributed multi-agent systems, centralized coordination becomes impractical and raises the need for governance and enforcement mechanisms from an agent-
+centric perspective. In our conceptual view, sanctioning norm enforcement is part of this agent-centric approach and they aim at promoting norm compliance while preserving agents’ autonomy. The few works dealing with sanctioning norm enforcement and sanctions from the agent-centric perspective present limitations regarding the representation of sanctions and the comprehensiveness of their norm enforcement process. To address these drawbacks, we propose the NPL(s), an extension of the NPL normative programming language enriched with the representation of norms and sanctions as first-class abstractions. We also propose a BDI normative agent architecture embedding an engine for processing the NPL(s) language and a set of capabilities for approaching more comprehensively the sanctioning norm enforcement process. We apply our contributions in a case study for improving the robustness of agents’ decision-making in a production automation system.&lt;/p&gt;
+
+&lt;p&gt;👉 &lt;a href=&quot;https://arxiv.org/abs/2403.15128&quot;&gt;Paper&lt;/a&gt;
+👉 &lt;a href=&quot;../../../../presentation/coine24.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+        <link>http://yan-elena.github.io/2024/05/07/aamascoine24/</link>
+        <guid isPermaLink="true">http://yan-elena.github.io/2024/05/07/aamascoine24/</guid>
+        
+        <category>news</category>
+        
+        <category>workshop</category>
+        
+        <category>coine</category>
+        
+        <category>normative multi agent systems</category>
+        
+        <category>multi agent systems</category>
+        
+        <category>sanctions</category>
+        
+        <category>normative programming language</category>
+        
+        <category>normative agent architecture</category>
+        
+        <category>norm enforcement</category>
+        
+        <category>JaCaMo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Multi-Level Explainability Framework for BDI Multi-Agent Systems</title>
+        <description>&lt;p&gt;In this project, we build on top of the idea of using logs to examine the behaviour of a software system by applying it to multi-agent systems with a novel angle which is to include multiple levels of explanation generated from the same set of logs. Commonly, explainability in agent systems is achieved by focusing on a single agent that produces a single explanation for a single purpose. Our research introduces a different approach by presenting an explainability framework for agents and multi-agent systems that deals with multiple levels of abstraction that can be used for different purposes by different classes of users.&lt;/p&gt;
+
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;E. Yan, S. Burattini, J. F. H ̈ubner, and A. Ricci, “Towards a multi-level explainability
+framework for engineering and understanding bdi agent systems,” in &lt;em&gt;Proceedings of the 24th
+Workshop “From Objects to Agents” (WOA 2023)&lt;/em&gt;, R. Falcone, C. Castelfranchi,
+A. Sapienza, and F. Cantucci, Eds., ser. CEUR Workshop Proceedings, vol. 3579, Rome:
+CEUR-WS.org, 2023. &lt;a href=&quot;https://ceur-ws.org/Vol-3579/paper17.pdf&quot;&gt;https://ceur-ws.org/Vol-3579/paper17.pdf&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Yan, Elena (2023) A multi level explainability framework for BDI Multi Agent Systems. [Laurea magistrale], Università di Bologna, Corso di Studio in Ingegneria e scienze informatiche [LM-DM270] - Cesena. &lt;a href=&quot;https://amslaurea.unibo.it/29644/&quot;&gt;https://amslaurea.unibo.it/29644/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source code&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yan-elena/agent-logging&quot;&gt;https://github.com/yan-elena/agent-logging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yan-elena/agent-explanation&quot;&gt;https://github.com/yan-elena/agent-explanation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yan-elena/domestic-robot-example&quot;&gt;https://github.com/yan-elena/domestic-robot-example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+        <link>http://yan-elena.github.io/2024/05/01/explanability/</link>
+        <guid isPermaLink="true">http://yan-elena.github.io/2024/05/01/explanability/</guid>
+        
+        <category>multi agent systems</category>
+        
+        <category>BDI agent model</category>
+        
+        <category>JaCaMo</category>
+        
+        <category>Jason</category>
+        
+        <category>explainability</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
