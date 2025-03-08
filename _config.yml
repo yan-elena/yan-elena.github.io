@@ -78,3 +78,6 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
   query: "@*"
+
+paginate: nil
+paginate_path: nil
