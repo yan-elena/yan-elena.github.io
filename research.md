@@ -5,6 +5,10 @@ description: "The only way to do great work is to love what you do."
 order: 2
 ---
 
+{% bibliography --file mypub %}
+
+
+
 
 
 ## Publications
