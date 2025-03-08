@@ -6,15 +6,10 @@ order: 2
 ---
 
 ## Publications
+
+{% raw %}
 {% bibliography %}
-
-<!-- {% bibliography --file papers %} --> -->
-
-<!-- ### Journal Articles
-
-### Conference Proceedings
-
-### Preprints -->
+{% endraw %}
 
 
 
