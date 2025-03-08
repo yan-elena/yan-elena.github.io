@@ -9,12 +9,12 @@ order: 2
 
 ### Journals
 
-{% bibliography -f papers -q @article%}
+<div class="publications">{% bibliography -f papers -q @article%}</div>
 
 ### Conference Proceedings
 
-{% bibliography -f papers -q @InProceedings%}
+<div class="publications">{% bibliography -f papers -q @InProceedings%}</div>
 
 ### Preprints
 
-{% bibliography -f papers -q @misc%}
+<div class="publications">{% bibliography -f papers -q @misc%}</div>

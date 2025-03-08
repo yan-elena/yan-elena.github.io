@@ -189,14 +189,14 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm btn-outline-dark z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
-      {% if entry.bibtex_show %}
+      <!-- {% if entry.bibtex_show %} -->
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      {% endif %}
+      <!-- {% endif %} -->
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
