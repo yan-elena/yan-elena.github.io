@@ -64,7 +64,6 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 scholar:
-  style: modern-language-association
   last_name: [Yan]
   first_name: [Elena]
   style: apa
