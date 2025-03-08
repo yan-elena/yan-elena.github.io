@@ -24,9 +24,11 @@ My current research focuses on the development of a model and mechanisms for mul
 You can find my CV here: [**Elena Yan's CV**](../../../../assets/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
 
-## Publications
+## Selected Publications
 
-{% bibliography -f papers %}
+{% bibliography -f papers -q @[selected=true] %}
+
+Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
 ## News
 - _March 4, 2025_: Our post-proceeding of the COINE@AAMAS conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check-out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6) 
