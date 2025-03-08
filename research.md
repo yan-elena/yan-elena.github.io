@@ -5,10 +5,16 @@ description: "The only way to do great work is to love what you do."
 order: 2
 ---
 
-## Publications
+
+{% include bib_search.liquid %}
+
+<div class="publications">
 
 {% bibliography %}
 
+</div>
+
+## Publications
 
 Elena Yan, Luis G. Nardin, Jomi F. Hübner, and Olivier Boissier. (2024). **An Agent-Centric Perspective on Norm Enforcement and Sanctions.** *International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (AAMAS@COINE2024)*, New Zealand, May 7, 2024. [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128). 
 
