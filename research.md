@@ -6,9 +6,9 @@ order: 2
 ---
 
 ## Publications
-{% bibliography %}
+<!-- {% bibliography %}
 
-{% bibliography --file papers %}
+{% bibliography --file papers %} -->
 
 <!-- ### Journal Articles
 
