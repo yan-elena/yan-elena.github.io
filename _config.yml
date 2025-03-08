@@ -36,7 +36,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
