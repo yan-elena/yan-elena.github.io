@@ -8,7 +8,7 @@ order: 2
 ## Publications
 {% bibliography %}
 
-{% bibliography --file mypub %}
+{% bibliography --file papers %}
 
 <!-- ### Journal Articles
 
