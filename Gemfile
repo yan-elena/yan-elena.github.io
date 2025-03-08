@@ -29,7 +29,6 @@ group :jekyll_plugins do
   gem 'jekyll-scholar'
   gem 'jekyll-sitemap'
   gem 'jekyll-tabs'
-  gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
   gem 'jekyll-toc'
   gem 'jekyll-twitter-plugin'
   gem 'jemoji'
