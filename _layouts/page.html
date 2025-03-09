@@ -110,7 +110,7 @@ layout: default
                             <p>{{site.sidebar-about-description}}</p>
                         {% endif %}
                         <!-- SNS Link -->
-                        <ul class="list-inline justify-content-center d-flex">
+                        <ul class="list-inline d-flex">
                             {% if site.RSS %}
                             <li>
                                 <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
@@ -214,6 +214,7 @@ layout: default
                     {% endif %}
                             
                         </ul>
+                        <p>{{site.title}}</p>
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
