@@ -11,15 +11,14 @@ My supervisors are [Olivier Boissier](https://www.emse.fr/~boissier/), [Jaime S.
 Previously, I earned my M.Sc and B.Sc. in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at the [University of Bologna](https://www.unibo.it/en/homepage) in Italy, advised by [Alessandro Ricci](https://www.unibo.it/sitoweb/a.ricci/en).
 
 
-My research interests concerns mainly on Multi-Agent Systems (MAS). Some keywords are:
+My research interests center around multi-agent systems and engineering methodologies, with the aim of deploying regulated, adaptive and trustworthy systems. My current research focuses on the development of a model and mechanisms for multi agent systems able to self-regulate and adapt regulations for a trustworthy and sustainable industry of future. Some keywords are:
 
 - Normative Multi-Agent Systems
 - Self-Adaptation
 - Software Engineering
 - BDI Agents
-- JaCaMo
-
-My current research focuses on the development of a model and mechanisms for multi agent systems able to self-regulate and self-adapt for a trustworthy and sustainable industry of future. 
+- Responsible AI
+- Industry of the Future
 
 You can find my CV here: [**Elena Yan's CV**](../../../../assets/pdf/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
