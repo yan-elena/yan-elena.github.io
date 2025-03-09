@@ -1191,7 +1191,6 @@ img::-moz-selection {
       .links {
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
           margin-left: 0;
 
           &:hover {
