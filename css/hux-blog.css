@@ -1189,18 +1189,7 @@ img::-moz-selection {
       }
 
       .links {
-        a.btn {
-          color: var(--global-text-color);
-          margin-left: 0;
-
-          &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-          }
-        }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
+        
       }
 
       .badges {
