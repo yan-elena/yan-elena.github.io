@@ -99,7 +99,7 @@ layout: default
 
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
-                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
+                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">{{site.title}}</a></h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
                             <a href="{{ site.baseurl }}/about">
@@ -214,7 +214,6 @@ layout: default
                     {% endif %}
                             
                         </ul>
-                        <p>{{site.title}}</p>
                         {% if site.email %}
                             <p>✉️ {{site.email}}</p>
                         {% endif %}
