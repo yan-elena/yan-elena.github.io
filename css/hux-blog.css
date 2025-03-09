@@ -1096,8 +1096,6 @@ img::-moz-selection {
   color: #ddd;
 }
 
-// Publications
-
 .publications {
   margin-top: 2rem;
 
@@ -1194,10 +1192,6 @@ img::-moz-selection {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
           margin-left: 0;
 
           &:hover {
@@ -1214,7 +1208,7 @@ img::-moz-selection {
         padding-bottom: 0.5rem;
         span {
           display: inline-block;
-          color: $black-color;
+          color: black;
           height: 100%;
           padding-right: 0.5rem;
           vertical-align: middle;
