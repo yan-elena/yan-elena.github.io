@@ -1123,6 +1123,11 @@ img::-moz-selection {
     text-align: right;
   }
 
+  .btn.btn-sm {
+    padding: .5rem 1.6rem;
+    font-size: .64rem;
+  }
+
   ol.bibliography {
     list-style: none;
     padding: 0;
