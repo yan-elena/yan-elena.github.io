@@ -41,6 +41,19 @@ $(document).ready(function() {
     $('iframe[src*="vimeo.com"]').addClass('embed-responsive-item');
 });
 
+$(document).ready(function () {
+    // add toggle functionality to abstract and bibtex buttons
+    $("a.abstract").on("click", function () {
+      $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
+      $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    });
+    $("a.bibtex").on("click", function () {
+      $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
+      $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
+    });
+    $("a").removeClass("waves-effect waves-light");
+});
+
 // Navigation Scripts to Show Header on Scroll-Up
 jQuery(document).ready(function($) {
     var MQL = 1170;
