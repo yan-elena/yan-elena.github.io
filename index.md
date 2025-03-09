@@ -25,7 +25,7 @@ You can find my CV here: [**Elena Yan's CV**](../../../../assets/pdf/yan_elena_c
 
 ## Selected Publications
 
-{% bibliography -f papers -q @*[selected=true] %}
+<div class="publications">{% bibliography -f papers -q @*[selected=true] %}</div>
 
 Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
