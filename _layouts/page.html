@@ -109,6 +109,12 @@ layout: default
                         {% if site.sidebar-about-description %}
                             <p>{{site.sidebar-about-description}}</p>
                         {% endif %}
+                        <a href="https://www.mines-stetienne.fr/recherche/departements/departement-informatique-et-systemes-intelligents/">Departement of Computer Science and Intelligent Systems</a></br>
+                        <a href="https://fayol.wp.imt.fr/">Henri Fayol Institute</a></br>
+                        <a href="https://www.mines-stetienne.fr">École des Mines de Saint-Étienne</a></br>
+                        <div>158 cours Fauriel - CS 62362</div>
+                        <div>42023 Saint-Étienne Cedex 2 - France</div>
+                        <div>Email: <a href="mailto:elena.yan@emse.fr">{{site.email}}</a></div>
                         <!-- SNS Link -->
                         <ul class="list-inline d-flex">
                             {% if site.RSS %}
@@ -183,42 +189,36 @@ layout: default
                             </li>
                             {% endif %}
                             {% if site.linkedin_username %}
-                    <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-brands fa-linkedin fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.google_scholar %}
-                    <li>
-                        <a target="_blank" href="{{ site.google_scholar }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-brands fa-google-scholar fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.orcid %}
-                    <li>
-                        <a target="_blank" href="https://orcid.org/{{ site.orcid }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-brands fa-orcid fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}              
-                        </ul>
-                        <a href="https://www.mines-stetienne.fr/recherche/departements/departement-informatique-et-systemes-intelligents/">Departement of Computer Science and Intelligent Systems</a></br>
-                        <a href="https://fayol.wp.imt.fr/">Henri Fayol Institute</a></br>
-                        <a href="https://www.mines-stetienne.fr">École des Mines de Saint-Étienne</a></br>
-                        <div>158 cours Fauriel - CS 62362</div>
-                        <div>42023 Saint-Étienne Cedex 2 - France</div>
-                        <div>Email: <a href="mailto:elena.yan@emse.fr">{{site.email}}</a></div>
+	                    <li>
+	                        <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+	                            <span class="fa-stack fa-lg">
+	                                <i class="fa fa-circle fa-stack-2x"></i>
+	                                <i class="fa fa-brands fa-linkedin fa-stack-1x fa-inverse"></i>
+	                            </span>
+	                        </a>
+	                    </li>
+	                    {% endif %}
+	                    {% if site.google_scholar %}
+	                    <li>
+	                        <a target="_blank" href="{{ site.google_scholar }}">
+	                            <span class="fa-stack fa-lg">
+	                                <i class="fa fa-circle fa-stack-2x"></i>
+	                                <i class="fa fa-brands fa-google-scholar fa-stack-1x fa-inverse"></i>
+	                            </span>
+	                        </a>
+	                    </li>
+	                    {% endif %}
+	                    {% if site.orcid %}
+	                    <li>
+	                        <a target="_blank" href="https://orcid.org/{{ site.orcid }}">
+	                            <span class="fa-stack fa-lg">
+	                                <i class="fa fa-circle fa-stack-2x"></i>
+	                                <i class="fa fa-brands fa-orcid fa-stack-1x fa-inverse"></i>
+	                            </span>
+	                        </a>
+	                    </li>
+	                    {% endif %}              
+	                 </ul>
                     </div>
                 </section>
                 <!-- Friends Blog -->
