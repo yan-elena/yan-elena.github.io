@@ -36,7 +36,7 @@ Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for detai
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
 - _July 9, 2024_: Presentation at ["Workshop from Objects to Agents"](https://www.univda.it/woa2024/) 2024, Forte di Bard, Italy. [[slides]](../../../../assets/pdf/woa24.pdf)
 
-Refer to the [News]({{ site.baseurl }}{% link news.md %}) page for details.
+Refer to the [Activities]({{ site.baseurl }}{% link activities.md %}) page for details.
 
 ## Contact
 
