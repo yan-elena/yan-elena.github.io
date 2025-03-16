@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Activities"
-description: "Cross the stars over the moon to meet your better-self."
+description: "The only way to do great work is to love what you do."
 order: 4
 ---
 

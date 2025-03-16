@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-description: "The only way to do great work is to love what you do."
+description: "Somewhere, something incredible is waiting to be known."
 order: 2
 ---
 
