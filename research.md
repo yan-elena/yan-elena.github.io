@@ -14,11 +14,11 @@ See my [Google Scholar](https://scholar.google.com/citations?user=4ROQqgsAAAAJ&h
 
 <div class="publications">{% bibliography -f papers -q @thesis%}</div>
 
-### Journals
+### Journal Articles
 
 <div class="publications">{% bibliography -f papers -q @article%}</div>
 
-### Conference Proceedings
+### Conference Papers
 
 <div class="publications">{% bibliography -f papers -q @InProceedings%}</div>
 
