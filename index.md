@@ -30,11 +30,11 @@ You can find my CV here: [**Elena Yan's CV**](../../../../assets/pdf/yan_elena_c
 Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
 ## Latest News
+- _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted at COINE@AAMAS2025!
 - _March 4, 2025_: Our post-proceeding of the COINE@AAMAS conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6) 
 - _January 30, 2025_: Our journal paper "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" is published in JAAMAS! Check it out at: [https://doi.org/10.1007/s10458-025-09689-6](https://doi.org/10.1007/s10458-025-09689-6) 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[slides]](../../../../assets/pdf/sereco24.pdf)
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
-- _July 9, 2024_: Presentation at ["Workshop from Objects to Agents"](https://www.univda.it/woa2024/) 2024, Forte di Bard, Italy. [[slides]](../../../../assets/pdf/woa24.pdf)
 
 Refer to the [Activities]({{ site.baseurl }}{% link activities.md %}) page for details.
 
