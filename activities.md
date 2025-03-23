@@ -10,7 +10,7 @@ order: 4
 ### 2025
 
 - _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted paper at COINE@AAMAS2025!
-- _March 4, 2025_: Our COINE@AAMAS2024 conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6).
+- _March 4, 2025_: Our extended and revised COINE@AAMAS2024 conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6).
 - _January 30, 2025_: Our journal paper "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" is published on JAAMAS! Check it out at: [https://doi.org/10.1007/s10458-025-09689-6](https://doi.org/10.1007/s10458-025-09689-6).
 
 ### 2024
@@ -20,8 +20,8 @@ order: 4
 - _July 9, 2024_: Presentation at ["Workshop from Objects to Agents"](https://www.univda.it/woa2024/) 2024, Forte di Bard, Italy. [[slides]](../../../../assets/pdf/woa24.pdf).
 - _May 30, 2024_ Reviewing manuscripts for the [ECAI](https://www.ecai2024.eu) Conference.
 - _May 7, 2024_: Presentation of the paper ["An Agent Centric Perspective on Norm Enforcement and Sanctions"](https://arxiv.org/abs/2403.15128) at the COINE@AAMAS 2024 Workshop, Online Presentation. [[slides]](../../../../assets/pdf/coine24.pdf).
-- _March 23, 2024_: Our preprint of the paper "An Agent Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128).
 - _April 24, 2024_: Talk "Self-adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" at IMT 2024 Colloquium “Responsible Industry of Future”, Gardanne, France. [[slides]](../../../../assets/pdf/phd-imt-colloque.pdf).
+- _March 23, 2024_: Our preprint of the paper "An Agent Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128).
 
 ### 2023
 
