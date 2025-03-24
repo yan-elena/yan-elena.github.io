@@ -17,6 +17,7 @@ order: 4
 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[slides]](../../../../assets/pdf/sereco24.pdf).
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
+- _July 22-26, 2024_ Participation at the 2024 [AI4Industry](https://ci.mines-stetienne.fr/ai4industry/2024/) Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0.
 - _July 9, 2024_: Presentation at ["Workshop from Objects to Agents"](https://www.univda.it/woa2024/) 2024, Forte di Bard, Italy. [[slides]](../../../../assets/pdf/woa24.pdf).
 - _May 30, 2024_ Reviewing manuscripts for the [ECAI](https://www.ecai2024.eu) Conference.
 - _May 7, 2024_: Presentation of the paper ["An Agent Centric Perspective on Norm Enforcement and Sanctions"](https://arxiv.org/abs/2403.15128) at the COINE@AAMAS 2024 Workshop, Online Presentation. [[slides]](../../../../assets/pdf/coine24.pdf).
