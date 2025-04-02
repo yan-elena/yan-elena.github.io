@@ -17,10 +17,9 @@ My research interests center around multi-agent systems and engineering methodol
 - Self-Adaptation
 - Software Engineering
 - BDI Agents
-- Responsible AI
 - Industry of the Future
 
-You can find my CV here: [**Elena Yan's CV**](../../../../assets/pdf/yan_elena_cv_full.pdf). If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
+If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
 
 ## Selected Publications
