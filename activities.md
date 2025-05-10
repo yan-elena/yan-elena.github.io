@@ -9,7 +9,7 @@ order: 4
 
 ### 2025
 
-- _March 26, 2025_: [https://ci.mines-stetienne.fr/ai4industry/2025/](Call for Participation 2025 Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0)
+- _March 26, 2025_: [Call for Participation 2025 Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0](https://ci.mines-stetienne.fr/ai4industry/2025/)
 - _March 26, 2025_: Our paper "Engineering Inter-Agent Explainability in BDI Agents" is accepted at EXTRAAMAS@AAMAS 2025!
 - _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted paper at COINE@AAMAS 2025!
 - _March 4, 2025_: Our extended and revised COINE@AAMAS2024 conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6).
