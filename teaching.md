@@ -13,6 +13,12 @@ Laboratory, third year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne
 **[Multi-Agent Coordination](https://ci.mines-stetienne.fr/cps2/mac/)** <br/>
 Laboratory, second year in Master Cyber-Physical and Social Systems CPS2, MINES Saint Étienne, Saint-Étienne.
 
+**Object Oriented Programming** <br/>
+Laboratory, first year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne, Saint-Étienne.
+
+**Industrial Risk and Accident Project - Modern Languages**<br/>
+Scientific research tutor, first year in ICM (Ingénieur Civil des Mines), MINES Saint Étienne, Saint-Étienne.
+
 ### 2023 - 2024
 
 **Object Oriented Programming** <br/>
