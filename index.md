@@ -30,8 +30,8 @@ Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for detai
 
 ## Latest News
 - _March 26, 2025_: [https://ci.mines-stetienne.fr/ai4industry/2025/](Call for Participation 2025 Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0)
-- _March 26, 2025_: Our paper "Engineering Inter-Agent Explainability in BDI Agents" is accepted at EXTRAAMAS@AAMAS2025!
-- _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted at COINE@AAMAS2025!
+- _March 26, 2025_: Our paper "Engineering Inter-Agent Explainability in BDI Agents" is accepted at EXTRAAMAS@AAMAS 2025!
+- _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted at COINE@AAMAS 2025!
 - _March 4, 2025_: Our post-proceeding of the COINE@AAMAS conference paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6) 
 - _January 30, 2025_: Our journal paper "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" is published in JAAMAS! Check it out at: [https://doi.org/10.1007/s10458-025-09689-6](https://doi.org/10.1007/s10458-025-09689-6) 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[slides]](../../../../assets/pdf/sereco24.pdf)
