@@ -13,13 +13,13 @@ I obtained my master and bachelor degrees in [Computer Science and Engineering](
 
 My research interests center around multi-agent systems and engineering methodologies, with the aim of deploying regulated, adaptive and trustworthy systems. My current research focuses on the development of a model and mechanisms for multi-agent systems able to self-regulate and adapt regulations for a trustworthy and sustainable industry of future. Some keywords are:
 
-- Normative Multi-Agent Systems
-- Self-Adaptation
-- Software Engineering
-- BDI Agents
+- Multi-Agent Systems
+- Regulation Management
+- Regulation Adaptation
+- Explainable Agents
 - Industry of the Future
 
-Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_2025-06.pdf) If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
+Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_2025-07.pdf) If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
 
 ## Selected Publications
@@ -30,7 +30,7 @@ Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for detai
 
 ## Latest News
 - _11 July, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
-- _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25)
+- _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25.pdf)
 - _30 June, 2025_: Submitted a paper at HyperAgents@ECAI 2025
 - _15 June, 2025_: Submitted a paper at EUMAS 2025
 - _May 20, 2025_: Presentation "A Unified View on Regulation Management in Multi-Agent Systems" at COINE@AAMAS 2025! [[Paper]](https://coin-workshop.github.io/coine-2025-detroit/papers/paper_6.pdf) [[Slides]](../../../../assets/pdf/coine25.pdf)

@@ -10,7 +10,7 @@ order: 4
 ### 2025
 
 - _11 July, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
-- _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25)
+- _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25.pdf)
 - _30 June, 2025_: Submitted a paper at HyperAgents@ECAI 2025
 - _15 June, 2025_: Submitted a paper at EUMAS 2025
 - _May 20, 2025_: Presentation "A Unified View on Regulation Management in Multi-Agent Systems" at COINE@AAMAS 2025! [[Paper]](https://coin-workshop.github.io/coine-2025-detroit/papers/paper_6.pdf) [[Slides]](../../../../assets/pdf/coine25.pdf)
