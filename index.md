@@ -19,7 +19,7 @@ My research interests center around multi-agent systems and engineering methodol
 - BDI Agents
 - Industry of the Future
 
-If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
+Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_2025-06.pdf) If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
 
 ## Selected Publications
@@ -29,13 +29,14 @@ If you are interested in my work, please feel free to drop me an email: [elena.y
 Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
 ## Latest News
+- _11 July, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
+- _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25)
+- _30 June, 2025_: Submitted a paper at HyperAgents@ECAI 2025
+- _15 June, 2025_: Submitted a paper at EUMAS 2025
 - _May 20, 2025_: Presentation "A Unified View on Regulation Management in Multi-Agent Systems" at COINE@AAMAS 2025! [[Paper]](https://coin-workshop.github.io/coine-2025-detroit/papers/paper_6.pdf) [[Slides]](../../../../assets/pdf/coine25.pdf)
 - _May 19, 2025_: Presentation "Engineering Inter-Agent Explainability in BDI Agents" at EXTRAAMAS@AAMAS 2025! [[Slides]](../../../../assets/pdf/extraamas25.pdf)
+- _May 6, 2025_: Submitted a paper at ECAI 2025
 - _March 26, 2025_: [Call for Participation 2025 Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0](https://ci.mines-stetienne.fr/ai4industry/2025/)
-- _March 26, 2025_: Our paper "Engineering Inter-Agent Explainability in BDI Agents" is accepted at EXTRAAMAS@AAMAS 2025!
-- _March 21, 2025_: Our paper "A Unified View on Regulation Management in Multi-Agent Systems" is accepted at COINE@AAMAS 2025! [[Paper]](https://coin-workshop.github.io/coine-2025-detroit/papers/paper_6.pdf)
-- _March 4, 2025_: Our post-proceeding of the COINE@AAMAS 2024 paper "An Agent-Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://doi.org/10.1007/978-3-031-82039-7_6](https://doi.org/10.1007/978-3-031-82039-7_6).
-- _January 30, 2025_: Our journal paper "A Multi-Level Explainability Framework for Engineering and Understanding BDI Agents" is published in JAAMAS! Check it out at: [https://doi.org/10.1007/s10458-025-09689-6](https://doi.org/10.1007/s10458-025-09689-6) 
 
 Refer to the [Activities]({{ site.baseurl }}{% link activities.md %}) page for details.
 
