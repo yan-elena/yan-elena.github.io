@@ -9,6 +9,11 @@ order: 4
 
 ### 2025
 
+- _04 August, 2025_: Our paper "Perspectives on Regulation Adaptation in Multi-Agent Systems: from Agent to Organization Centric and Beyond" is accepted at WESAAC 2025!
+- _01 August, 2025_: Our paper "Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations" is accepted at HyperAgents@ECAI 2025!
+-  _31 July, 2025_: My doctoral consortium application "Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" is accepted at ECAI 2025!
+- _28 July, 2025_: Visiting Ph.D. Student at [University of São Paulo, Brazil](https://www5.usp.br/)
+- _21-25 July, 2025_: Organization of [Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0](https://ci.mines-stetienne.fr/ai4industry/2025/)
 - _11 July, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
 - _2 July, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25.pdf)
 - _30 June, 2025_: Submitted a paper at HyperAgents@ECAI 2025
