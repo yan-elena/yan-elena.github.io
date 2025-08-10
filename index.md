@@ -14,7 +14,6 @@ My research interests center around multi-agent systems and engineering methodol
 - Regulation Management
 - Regulation Adaptation
 - Explainable Agents
-- Industry of the Future
 
 Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_latest.pdf) If you are interested in my work, please feel free to drop me an email: [elena.yan@emse.fr](mailto:elena.yan@emse.fr)
 
