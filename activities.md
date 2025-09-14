@@ -9,6 +9,7 @@ order: 4
 
 ### 2025
 
+-  _August 12 - September 03, 2025_: Visiting research period at the [Universidade Federal de Santa Catarina](https://ufsc.br/), Brazil, under the supervision of [Jomi F. Hübner](https://jomifred.github.io/)
 - _August 04, 2025_: Our paper "Perspectives on Regulation Adaptation in Multi-Agent Systems: from Agent to Organization Centric and Beyond" is accepted at WESAAC 2025!
 - _August 01, 2025_: Our paper "Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations" is accepted at HyperAgents@ECAI 2025!
 -  _July 31, 2025_: My doctoral consortium application "Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" is accepted at ECAI 2025!
