@@ -9,7 +9,8 @@ order: 4
 
 ### 2025
 
--  _October 25 - October 30, 2025_: Attending the [ECAI 2025](https://ecai2025.org/) Conference in Bologna, Italy! I presented the following works: [ECAI-Main Track - Regulation Adaptation Model](https://ebooks.iospress.nl/doi/10.3233/FAIA251245), [ECAI-DoctoralConsortium - Self Adaptive Regulation Mechanisms](https://ecai25doctoralconsortium.github.io/papers/ECAI-2025-DC_paper_45.pdf), and [ECAI-HyperAgents - Explainability in Heterogeneous Agents](https://ceur-ws.org/Vol-4084/paper1.pdf)
+- _November 26_, 2025: A Master M2 internship opportunity is now open: "[An Explainability Framework for BDI Normative Agents](../../../../assets/pdf/2026-internship-explainability.pdf)" at MINES Saint Etienne, France!
+- _October 25 - October 30, 2025_: Attending the [ECAI 2025](https://ecai2025.org/) Conference in Bologna, Italy! I presented the following works: [ECAI-Main Track - Regulation Adaptation Model](https://ebooks.iospress.nl/doi/10.3233/FAIA251245), [ECAI-DoctoralConsortium - Self Adaptive Regulation Mechanisms](https://ecai25doctoralconsortium.github.io/papers/ECAI-2025-DC_paper_45.pdf), and [ECAI-HyperAgents - Explainability in Heterogeneous Agents](https://ceur-ws.org/Vol-4084/paper1.pdf)
 - _October 1, 2025_: Best Paper Award at WESAAC 2025! Check it out at: [Perspectives on Regulation Adaptation in Multi-Agent Systems: From Organization to Agent-Centric and Beyond](https://sol.sbc.org.br/index.php/wesaac/article/view/37527)
 - _September 29 - October 03, 2025_: Attending the [BRACIS&SBBD 2025](https://bracis.sbc.org.br/2025/pt/en-4/) Conference in Fortaleza!
 - _August 12 - September 03, 2025_: Visiting research period at the [Universidade Federal de Santa Catarina](https://ufsc.br/), Brazil, under the supervision of [Jomi F. Hübner](https://jomifred.github.io/)
