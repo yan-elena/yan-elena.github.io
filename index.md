@@ -25,6 +25,7 @@ Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_latest.pdf) If
 Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
 ## Latest News
+- Co-Chair of International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos)
 - _November 26_, 2025: A Master M2 internship opportunity is now open: "[An Explainability Framework for BDI Normative Agents](../../../../assets/pdf/2026-internship-explainability.pdf)" at MINES Saint Etienne, France!
 - _October 25 - October 30, 2025_: Attending the [ECAI 2025](https://ecai2025.org/) Conference in Bologna, Italy! I presented the following works: [ECAI-Main Track - Regulation Adaptation Model](https://ebooks.iospress.nl/doi/10.3233/FAIA251245), [ECAI-DoctoralConsortium - Self Adaptive Regulation Mechanisms](https://ecai25doctoralconsortium.github.io/papers/ECAI-2025-DC_paper_45.pdf), and [ECAI-HyperAgents - Explainability in Heterogeneous Agents](https://ceur-ws.org/Vol-4084/paper1.pdf)
 - _October 1, 2025_: Best Paper Award at WESAAC 2025! Check it out at: [Perspectives on Regulation Adaptation in Multi-Agent Systems: From Organization to Agent-Centric and Beyond](https://sol.sbc.org.br/index.php/wesaac/article/view/37527)
@@ -33,7 +34,7 @@ Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for detai
 - _July 21-25, 2025_: Organization of [Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0](https://ci.mines-stetienne.fr/ai4industry/2025/)
 - _July 11, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
 
-Refer to the [Activities]({{ site.baseurl }}{% link activities.md %}) page for details.
+Refer to the [News]({{ site.baseurl }}{% link news.md %}) page for details.
 
 ## Contact
 
