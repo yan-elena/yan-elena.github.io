@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: News
 description: The only way to do great work is to love what you do.
 order: 4
 ---
