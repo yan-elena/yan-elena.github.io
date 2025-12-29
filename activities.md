@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Activities"
-description: "The only way to do great work is to love what you do."
-order: 4
+title: Activities
+description: The only way to do great work is to love what you do.
+order: 3
 ---
 
 ## Organization
