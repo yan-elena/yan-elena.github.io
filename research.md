@@ -12,16 +12,19 @@ See my [Google Scholar](https://scholar.google.com/citations?user=4ROQqgsAAAAJ&h
 
 ### Theses
 
-<div class="publications">{% bibliography -f papers -q @thesis%}</div>
+<div class="publications">{% bibliography -f papers -q @thesis%}</div><br/><br/>
 
 ### Journal Articles
 
-<div class="publications">{% bibliography -f papers -q @article%}</div>
+<div class="publications">{% bibliography -f papers -q @article%}</div><br/><br/>
 
 ### Conference Papers
 
-<div class="publications">{% bibliography -f papers -q @InProceedings%}</div>
+<div class="publications">{% bibliography -f papers -q @InProceedings%}</div><br/><br/>
 
+### Extended Abstracts
+
+<div class="publications">{% bibliography -f papers -q @abstract%}</div><br/><br/>
 ### Preprints
 
-<div class="publications">{% bibliography -f papers -q @misc%}</div>
+<div class="publications">{% bibliography -f papers -q @misc%}</div><br/><br/>
