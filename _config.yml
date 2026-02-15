@@ -4,7 +4,7 @@ SEOTitle: Elena Yan
 header-img: img/bg-library.jpeg
 email: elena.yan@emse.fr
 description: "Elena Yan's Personal Website."
-keyword: "Elena Yan, EY, Computer Science, Multi-Agent Systems, Normative Multi Agent System, Self-Adaptation, MINES Saint Etienne, Unibo"
+keyword: "Elena Yan, EY, Computer Science, Multi-Agent Systems, Normative Multi Agent System, Regulation Adaptation, Explainable Multi-Agent Systems, MINES Saint Etienne, Unibo"
 url: "http://yan-elena.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yan-elena/yan-elena.github.io.git" # you code repository

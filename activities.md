@@ -7,7 +7,7 @@ order: 3
 
 ## Organization
 
-- Co-Chair. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos/}{COINE@AAMAS 2026)
+- Co-Chair. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos/)
 - Co-Organizer. Summer School on Technologies for Trust, Interoperability, Autonomy, and Resilience in Industry 4.0 [AI4Industry 2025](\href{https://ci.mines-stetienne.fr/ai4industry/2025/)
 
 ## Reviewer
