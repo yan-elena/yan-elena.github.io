@@ -10,6 +10,7 @@ order: 4
 ### 2026
 - February 15, 2026: Our post-proceeding of the COINE@AAMAS 2025 paper "A Unified View on Regulation Management in Multi-Agent Systems" is published! Check it out at: [https://doi.org/10.1007/978-3-032-17542-7_4](https://doi.org/10.1007/978-3-032-17542-7_4)
 -  Co-Chair of International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos)
+
 ### 2025
 
 - _November 26_, 2025: A Master M2 internship opportunity is now open: "An Explainability Framework for BDI Normative Agents" at MINES Saint Etienne, France!
@@ -37,8 +38,9 @@ order: 4
 
 
 <details>
-<summary> <b>See 2024</b> </summary>
-### 2024
+<summary> <h3>See 2024</h3> </summary>
+
+<didi markdown="1">
 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[Slides]](../../../../assets/pdf/sereco24.pdf).
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
@@ -49,15 +51,18 @@ order: 4
 - _April 24, 2024_: Talk "Self-adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" at IMT 2024 Colloquium “Responsible Industry of Future”, Gardanne, France. [[Slides]](../../../../assets/pdf/phd-imt-colloque.pdf).
 - _March 23, 2024_: Our preprint of the paper "An Agent Centric Perspective on Norm Enforcement and Sanctions" is published! Check it out at: [https://arxiv.org/abs/2403.15128](https://arxiv.org/abs/2403.15128).
 
+</div>
+
 </details>
 
 <details>
-<summary> <b>See 2023</b> </summary>
-### 2023
+<summary> <h3>See 2023</h3> </summary>
+<didi markdown="1">
 
 - _November 6-8, 2023_ Participation and presentation of the paper "Towards a Multi-Level Explainability Framework for Engineering and Understanding BDI Agent Systems" at WOA23 Workshop "From Objects to Agents", Rome, Italy [[Slides]](../../../../assets/pdf/woa23.pdf).
 - _November 1, 2023_: Enrolled as PhD Student at [MINES Saint Etienne](https://www.mines-stetienne.fr), under the ANR-FAPESP [NAIMAN Project](https://naiman.wp.imt.fr).
 - _October 5, 2023_ Completed Master's Degree in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at the University of Bologna, Cesena Campus.
 
+</div>
 </details>
 
