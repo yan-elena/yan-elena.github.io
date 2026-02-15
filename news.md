@@ -38,9 +38,11 @@ order: 4
 
 
 <details>
-<summary> <h3>See 2024</h3> </summary>
+<summary> <b>See 2024</b> </summary>
 
 <div markdown="1">
+
+### 2024
 
 - _October 17, 2024_: Talk: "A Normative Agent-Centric Approach to Regulate Manufacturing Process" at [SeReCo Autumn Workshop 2024](https://sereco-graduate-school.github.io/2024/autumn-workshop), Karlsruhe, Germany. [[Slides]](../../../../assets/pdf/sereco24.pdf).
 - _August 19-29, 2024_: Participation at [EASSS Summer School](https://euramas.github.io/easss2024/), [EUMAS Conference](https://euramas.github.io/eumas2024), and [DKG Workshop](https://cost-dkg.eu), Dublin Ireland.
@@ -56,8 +58,10 @@ order: 4
 </details>
 
 <details>
-<summary> <h3>See 2023</h3> </summary>
+<summary> <b>See 2023</b> </summary>
 <div markdown="1">
+
+### 2023
 
 - _November 6-8, 2023_ Participation and presentation of the paper "Towards a Multi-Level Explainability Framework for Engineering and Understanding BDI Agent Systems" at WOA23 Workshop "From Objects to Agents", Rome, Italy [[Slides]](../../../../assets/pdf/woa23.pdf).
 - _November 1, 2023_: Enrolled as PhD Student at [MINES Saint Etienne](https://www.mines-stetienne.fr), under the ANR-FAPESP [NAIMAN Project](https://naiman.wp.imt.fr).
