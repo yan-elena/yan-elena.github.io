@@ -9,6 +9,7 @@ order: 4
 
 ### 2026
 - February 15, 2026: Our post-proceeding of the COINE@AAMAS 2025 paper "A Unified View on Regulation Management in Multi-Agent Systems" is published! Check it out at: [https://doi.org/10.1007/978-3-032-17542-7_4](https://doi.org/10.1007/978-3-032-17542-7_4)
+- January 23, 2026: Presentation: "An Adaptive Regulation Management System for Multi-Agent Systems: A Normative Approach" at MAFTEC, Lyon France. [[slides]](../../../../assets/pdf/maftec.pdf)
 -  Co-Chair of International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos)
 
 ### 2025
