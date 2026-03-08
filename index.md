@@ -29,13 +29,9 @@ Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for detai
 - February 15, 2026: Our post-proceeding of the COINE@AAMAS 2025 paper "A Unified View on Regulation Management in Multi-Agent Systems" is published! Check it out at: [https://doi.org/10.1007/978-3-032-17542-7_4](https://doi.org/10.1007/978-3-032-17542-7_4)
 - January 23, 2026: Presentation: "An Adaptive Regulation Management System for Multi-Agent Systems: A Normative Approach" at MAFTEC, Lyon France. [[slides]](../../../../assets/pdf/maftec2026.pdf)
 - Co-Chair of International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos)
-- _November 26_, 2025: A Master M2 internship opportunity is now open: "An Explainability Framework for BDI Normative Agents" at MINES Saint Etienne, France!
 - _October 25 - October 30, 2025_: Attending the [ECAI 2025](https://ecai2025.org/) Conference in Bologna, Italy! I presented the following works: [ECAI-Main Track - Regulation Adaptation Model](https://ebooks.iospress.nl/doi/10.3233/FAIA251245), [ECAI-DoctoralConsortium - Self Adaptive Regulation Mechanisms](https://ecai25doctoralconsortium.github.io/papers/ECAI-2025-DC_paper_45.pdf), and [ECAI-HyperAgents - Explainability in Heterogeneous Agents](https://ceur-ws.org/Vol-4084/paper1.pdf)
 - _October 1, 2025_: Best Paper Award at WESAAC 2025! Check it out at: [Perspectives on Regulation Adaptation in Multi-Agent Systems: From Organization to Agent-Centric and Beyond](https://sol.sbc.org.br/index.php/wesaac/article/view/37527)
-- _August 12 - September 03, 2025_: Visiting research period at the [Universidade Federal de Santa Catarina](https://ufsc.br/), Brazil, under the supervision of [Jomi F. Hübner](https://jomifred.github.io/)
-- _July 28 - October 17, 2025_: Visiting research period at the [University of São Paulo](https://www5.usp.br/), Brazil, under the supervision of [Jaime S. Sichman](https://www2.pcs.usp.br/~jaime/index_engl.html).
-- _July 21-25, 2025_: Co-Organizer of Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0 [(AI4Industry 2025)](https://ci.mines-stetienne.fr/ai4industry/2025/)
-- _July 11, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
+
 
 Refer to the [News]({{ site.baseurl }}{% link news.md %}) page for details.
 
