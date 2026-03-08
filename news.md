@@ -8,6 +8,7 @@ order: 4
 ## News
 
 ### 2026
+- Co-Organizer of Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0 [(AI4Industry 2026)](https://ci.mines-stetienne.fr/ai4industry/2026/)
 - _February 15, 2026_: Our post-proceeding of the COINE@AAMAS 2025 paper "A Unified View on Regulation Management in Multi-Agent Systems" is published! Check it out at: [https://doi.org/10.1007/978-3-032-17542-7_4](https://doi.org/10.1007/978-3-032-17542-7_4)
 - _January 23, 2026_: Presentation: "An Adaptive Regulation Management System for Multi-Agent Systems: A Normative Approach" at MAFTEC, Lyon France. [[slides]](../../../../assets/pdf/maftec.pdf)
 -  Co-Chair of International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos)
@@ -23,7 +24,7 @@ order: 4
 - _August 01, 2025_: Our paper "Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations" is accepted at HyperAgents@ECAI 2025!
 -  _July 31, 2025_: My doctoral consortium application "Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future" is accepted at ECAI 2025!
 - _July 28 - October 17, 2025_: Visiting research period at the [University of São Paulo](https://www5.usp.br/), Brazil, under the supervision of [Jaime S. Sichman](https://www2.pcs.usp.br/~jaime/index_engl.html).
-- _July 21-25, 2025_: Organization of [Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0](https://ci.mines-stetienne.fr/ai4industry/2025/)
+- _July 21-25, 2025_: Co-Organizer of Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0 [(AI4Industry2025)](https://ci.mines-stetienne.fr/ai4industry/2025/)
 - _July 11, 2025_: Our paper "A Regulation Adaptation Model for Multi-Agent Systems" is accepted at ECAI 2025!
 - _July 2, 2025_: Poster "Regulation Management in Multi-Agent Systems" at Journée de la Recherche 2025 de l’École Doctorale SIS, Saint Etienne [[Poster]](../../../../assets/pdf/regman-poster25.pdf)
 - _June 30, 2025_: Paper submitted to HyperAgents@ECAI 2025

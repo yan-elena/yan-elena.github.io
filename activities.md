@@ -7,11 +7,14 @@ order: 3
 
 ## Organization
 
+- Co-Organizer. Summer School on Technologies for Trust, Interoperability, Autonomy, and Resilience in Industry 4.0 [AI4Industry 2026](https://ci.mines-stetienne.fr/ai4industry/2026/)
 - Co-Chair. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems [COINE@AAMAS 2026](https://coin-workshop.github.io/coine-2026-paphos/)
-- Co-Organizer. Summer School on Technologies for Trust, Interoperability, Autonomy, and Resilience in Industry 4.0 [AI4Industry 2025](\href{https://ci.mines-stetienne.fr/ai4industry/2025/)
+- Co-Organizer. Summer School on Technologies for Trust, Interoperability, Autonomy, and Resilience in Industry 4.0 [AI4Industry 2025](https://ci.mines-stetienne.fr/ai4industry/2025/)
 
 ## Reviewer
 
+- Italian National Workshop 27th Workshop From Objects to Agents WOA 2026
+- International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems COINE@AAMAS 2026
 - Autonomous Agents and Multi-Agent Systems AAMAS 2026
 - Italian National Workshop 26th Workshop From Objects to Agents WOA 2025
 - 27th European Conference on Artificial Intelligence ECAI 2024
