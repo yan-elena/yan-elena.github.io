@@ -76,6 +76,8 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
   query: "@*"
+  sort_by: year
+  order: descending
   group_order: descending
 
   # Display different badges withs stats for your publications
