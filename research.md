@@ -20,7 +20,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=4ROQqgsAAAAJ&h
 
 ### Conference Papers
 
-<div class="publications">{% bibliography -f papers -q @InProceedings%}</div><br/>
+<div class="publications">{% bibliography -f papers -q @InProceedings sort_by: 'year' | reverse%}</div><br/>
 
 ### Extended Abstracts
 
