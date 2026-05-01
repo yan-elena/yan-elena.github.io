@@ -13,7 +13,7 @@ order: 3
 
 ## Supervision
 
-- Amna (2026). An explainability framework for BDI normative agents. Co-supervision with Luis G. Nardin. Master Research Internship.
+- Amna (2026). An explainability framework for BDI normative agents. Co-supervised with Luis G. Nardin. Master Research Internship.
 
 ## Academic Visit
 
