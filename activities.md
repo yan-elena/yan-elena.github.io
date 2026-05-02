@@ -28,12 +28,12 @@ order: 3
 
 ## Program Committee Member
 
-- Workshop-School on Agents, Environments, and Applications WESAAC@BRACIS 2026
-- Italian National Workshop 27th Workshop From Objects to Agents WOA 2026
-- International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems COINE@AAMAS 2026
-- Autonomous Agents and Multi-Agent Systems AAMAS 2026
-- Italian National Workshop 26th Workshop From Objects to Agents WOA 2025
-- 27th European Conference on Artificial Intelligence ECAI 2024
+- WESAAC@BRACIS 2026, Workshop-School on Agents, Environments, and Applications
+- WOA 2026, Italian National Workshop 27th Workshop From Objects to Agents 
+- COINE@AAMAS 2026, International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems 
+- AAMAS 2026, Autonomous Agents and Multi-Agent Systems 
+- WOA 2025, Italian National Workshop 26th Workshop From Objects to Agents 
+- ECAI 2024, 27th European Conference on Artificial Intelligence 
 
 ## Presentations
 
