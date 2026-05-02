@@ -51,6 +51,6 @@ order: 3
 
 ## Posters
 
-- A Regulation Adaptation Model for Multi-Agent Systems. ECAI 2025, Bologna, Italy. [[poster]](../../../../assets/pdf/ecau2025poster.pdf) 
+- A Regulation Adaptation Model for Multi-Agent Systems. ECAI 2025, Bologna, Italy. [[poster]](../../../../assets/pdf/ecai2025poster.pdf) 
 -  Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future. ECAI 2025 - Doctoral Consortium, Bologna, Italy. [[poster]](../../../../assets/pdf/ecai-dc2025-poster.pdf) 
 - Regulation Management in Multi-Agent Systems. Journée de la Recherche 2025 de l’École Doctorale SIS. [[poster]](../../../../assets/pdf/reg-man-poster.pdf) 
