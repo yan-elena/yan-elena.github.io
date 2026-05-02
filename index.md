@@ -25,7 +25,7 @@ Find more in my CV here: [Elena Yan's CV](assets/pdf/yan_elena_cv_latest.pdf) If
 Refer to the [Research]({{ site.baseurl }}{% link research.md %}) page for details.
 
 ## Latest News
-- March 18-19, 2026: Presentation: "A Normative Model to Adapt the Regulation Management of Multi-Agent Systems" at SeReCo Spring Workshop 2026, Nuremberg, Germany.  [[slides]](../../../../assets/pdf/sereco2026.pdf) 
+- March 18-19, 2026: Presentation: "A Normative Model to Adapt the Regulation Management of Multi-Agent Systems" at SeReCo Spring Workshop 2026, Nuremberg, Germany.  [[slides]](../../../../assets/pdf/sereco26.pdf) 
 - Co-Organizer of Summer School on AI Technologies for Trust, Interoperability, Autonomy and Resilience in Industry 4.0 [(AI4Industry 2026)](https://ci.mines-stetienne.fr/ai4industry/2026/)
 - February 15, 2026: Our post-proceeding of the COINE@AAMAS 2025 paper "A Unified View on Regulation Management in Multi-Agent Systems" is published! Check it out at: [https://doi.org/10.1007/978-3-032-17542-7_4](https://doi.org/10.1007/978-3-032-17542-7_4)
 - January 23, 2026: Presentation: "An Adaptive Regulation Management System for Multi-Agent Systems: A Normative Approach" at MAFTEC, Lyon France. [[slides]](../../../../assets/pdf/maftec2026.pdf)
