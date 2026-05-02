@@ -39,9 +39,7 @@ order: 3
 
 * A Normative Model to Adapt the Regulation Management of Multi-Agent Systems. SeReCo Spring Workshop, Nuremberg, Germany [[slides]](../../../../assets/pdf/sereco26.pdf) 
 * An Adaptive Regulation Management System for Multi-Agent Systems: A Normative Approach. MAFTEC, Lyon France. [[slides]](../../../../assets/pdf/maftec2026.pdf) 
-* A Regulation Adaptation Model for Multi-Agent Systems. ECAI 2025, Bologna, Italy. [[poster]](../../../../assets/pdf/ecau2025poster.pdf) 
 * Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations HyperAgents @ ECAI 2025, Bologna, Italy. 
-* Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future. ECAI 2025 - Doctoral Consortium, Bologna, Italy. [[poster]](../../../../assets/pdf/ecai-dc2025-poster.pdf) 
 * Perspectives on regulation adaptation in multi-agent systems: from agent to organization-centric and beyond, WESAAC@BRASIC 2025, Fortaleza, Brazil [[slides]](../../../../assets/pdf/wesaac25.pdf) 
 * A Unified View on Regulation Management in Multi-Agent Systems, COINE@AAMAS 2025, Online. [[slides]](../../../../assets/pdf/coine25.pdf) 
 * Engineering Inter-Agent Explainability in BDI Agents, EXTRAAMAS@AAMAS 2025, Online. [[slides]](../../../../assets/pdf/extraamas25.pdf) 
@@ -50,3 +48,9 @@ order: 3
 * An Agent-Centric Perspective on Norm Enforcement and Sanctions, COINE@AAMAS2024, Online. [[slides]](../../../../assets/pdf/coine24.pdf) 
 * Self-adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future, IMT 2024 Colloquium “Responsible Industry of Future”, Gardanne, France. [[slides]](../../../../assets/pdf/phd-imt.colloque.pdf) 
 * Towards a Multi-Level Explainability Framework for Engineering and Understanding BDI Agent System, WOA 2023, Rome, Italy [[slides]](../../../../assets/pdf/woa23.pdf) 
+
+## Posters
+
+- A Regulation Adaptation Model for Multi-Agent Systems. ECAI 2025, Bologna, Italy. [[poster]](../../../../assets/pdf/ecau2025poster.pdf) 
+-  Self-Adaptive Regulation Mechanisms for a Trustworthy and Sustainable Industry of the Future. ECAI 2025 - Doctoral Consortium, Bologna, Italy. [[poster]](../../../../assets/pdf/ecai-dc2025-poster.pdf) 
+- Regulation Management in Multi-Agent Systems. Journée de la Recherche 2025 de l’École Doctorale SIS. [[poster]](../../../../assets/pdf/reg-man-poster.pdf) 
