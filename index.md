@@ -39,7 +39,7 @@ Refer to the [News]({{ site.baseurl }}{% link news.md %}) page for details.
 ## Contact
 
 **Elena Yan**<br/>
-[Departement of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/departements/departement-informatique-et-systemes-intelligents/)<br/>
+[Department of Computer Science and Intelligent Systems](https://www.mines-stetienne.fr/recherche/departements/departement-informatique-et-systemes-intelligents/)<br/>
 [Henri Fayol Institute](https://fayol.wp.imt.fr/)<br/>
 [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr)<br/>
 158 cours Fauriel - CS 62362<br/>
